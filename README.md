@@ -15,6 +15,13 @@ Gousopoulos D., Kapotis E. & Kalkanis G., (2015) “Students’ difficulties in 
 https://www.didaktorika.gr/eadd/handle/10442/39529 .
 
 
+Δημιουργός/οί: Ευστράτιος Καπότης, Παναγιώτης Τσάκωνας  -  Χρονολογία: 2016
+
+Αν ο περιηγητής σας αντιμετωπίζει προβλήματα δείτε και από το πανελλήνιο σχολικό δίκτυο
+http://users.sch.gr/ptsakon/GenRel2/GenRel.html
+
+
+
 ΟΔΗΓΙΕΣ ΕΚΤΕΛΕΣΗΣ
 
 
