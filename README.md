@@ -1,10 +1,15 @@
 # RG_4_Dimensions
  
 Η δυναμική αυτή προσομοίωση έχει χρησιμοποιηθεί (και χρησιμοποιείται) στην εκπαίδευση μαθητών της δευτεροβάθμιας αλλά και φοιτητών τριτοβάθμιας εκπαίδευσης με θετικά μαθησιακά αποτελέσματα. Σχετική αποτίμηση υπάρχει στις ακόλουθες δημοσιεύσεις. Ενδεικτικά παρατίθενται δημοσιεύεις που το πιστοποιούν:
+
 Kapotis E. & Tsakonas P., (2019, February) “Educational experimentation and simulations for teaching General Relativity. Implementation and Evaluation”, WE-Heraeus-Seminar: General Relativity as a Challenge for Physics Education, 10-02-19 to 15-02-2019, Bad Honnef, Germany
+
 Kapotis E., (2019, February) “Educational experimentation and simulations for teaching General Relativity”, WE-Heraeus-Seminar: General Relativity as a Challenge for Physics Education, Hands-on session, 10-02-19 to 15-02-2019, Bad Honnef, Germany
-Kapotis E., & Kalkanis G., (2016) “Einstein’s elevator in class ─ A self-construction carried out by students for the study of the Equivalence Principle”, The Physics Teacher, 54(7), 404-407.
+
+Kapotis E., & Kalkanis G., (2016) “Einstein’s elevator in class ─ A self-construction carried out by students for the study of the Equivalence Principle”, The Physics Teacher, 54(7), 404-407
+
 Gousopoulos D., Kapotis E. & Kalkanis G., (2015) “Students’ difficulties in understanding the basic principles of Relativity after standard instruction”, ESERA 2015 Conference, 31-08-15 to 04-09-2015, Helsinki, Finland
+
 Ευστράτιος Καπότης, Παναγιώτης Τσάκωνας, Γεώργιος Θεοφ. Καλκάνης (2017, Απρίλιος), "Εκπαιδευτική εφαρμογή και αξιολόγηση πρωτότυπων πειραματισμών και προσομοιώσεων για την διδασκαλία της Αρχής της Ισοδυναμίας", στο 10ο Πανελλήνιο Συνέδριο Διδακτικής των Φυσικών Επιστημών και Νέων Τεχνολογιών στην Εκπαίδευση, Ρέθυμνο
 Εκπαιδευτικές Προσεγγίσεις της Γενικής Θεωρίας της Σχετικότητας με Ψηφιακές Τεχνολογίες και Πειραματισμούς (για την απόκτηση του Διδακτορικού Διπλώματος του αιτούντος) 
 https://www.didaktorika.gr/eadd/handle/10442/39529 .
