@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Γενική Σχετικότητα</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script src="three.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="WebGL.js"></script>
+</head>
+
+<body onload="webGLStart();">
+    <h1 id="title">Γενική Σχετικότητα</h1>
+    <p id="info"></p>
+    <div id="placeHodler">
+    </div>
+    <br>
+    <button onclick="ChangeColor()">New Back color</button>
+    Πυκνότητα
+    <input type="range"
+          onchange="changeDensity()"
+          oninput="changeDensity()"
+          id="changeDensity"
+          min="1"
+          max="50"
+          value="1"
+    />
+    Ακτίνα
+    <input type="range"
+          onchange="changeRadius()"
+          oninput="changeRadius()"
+          id="changeRadius"
+          min="0"
+          max="10"
+          value="0"
+    /><br>
+
+    <input type="checkbox" name="autoChangeTheta" onclick="RotateAxis(this,0)">
+    <input type="range"
+          onchange="changeTheta()"
+          oninput="changeTheta()"
+          id="changeTheta"
+          min="0"
+          max="720"
+          value="180"
+    /><output id=thetaVal>θ=</output><br>
+    <input type="checkbox" name="autoChangePhi" onclick="RotateAxis(this,1)">
+    <input type="range"
+          onchange="changePhi()"
+          oninput="changePhi()"
+          id="changePhi"
+          min="0"
+          max="720"
+          value="223"
+    /><output id=phiVal>φ=</output><br>
+    <input type="range"
+    style="visibility: hidden"
+          onchange="changeStartX()"
+          oninput="changeStartX()"
+          id="changeStartX"
+          min="0"
+          max="100"
+          value="0"
+    /><output id=startXVal style="visibility: hidden">Xo=0</output>
+    <input type="range"
+    style="visibility: hidden"
+          onchange="changeStartY()"
+          oninput="changeStartY()"
+          id="changeStartY"
+          min="0"
+          max="100"
+          value="30"
+    /><output id=startYVal style="visibility: hidden">Yo=30</output><br>
+    <input type="range"
+          onchange="changePathOrientation()"
+          oninput="changePathOrientation()"
+          id="changePathOrientation"
+          min="-90"
+          max="90"
+          value="63"
+    /><output id=PathOrientationVal>θ1=63</output><br>
+</body>
+</html>
